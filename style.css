@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(59, 36, 36);
+}
+h1{
+    color: white;
+    margin-left: 20px;
+}
+#mid{
+    background-color: rgb(43, 6, 6);
+    margin: 200px 600px;
+    padding: 30px 30px;
+    height: 400px;
+    width: 400px;
+}
+
+#btn
+{
+    background-color: rgba(255, 0, 0, 0.8);
+    margin-left: 150px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border-color: black;
+  	transition: all 0.5s ease-in-out;
+}
+#btn:hover{
+    background-color: rgb(255, 0, 0);
+    
+}
+#myimage{
+    margin-left: 100px;
+}
